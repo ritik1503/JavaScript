@@ -24,3 +24,15 @@ VIDEO - 2 LET, CONST AND VAR
 
 4. const- value assigned cannot be changed, and value must be assigned at time of initialization, where let, var - can be be assigned after initialization, and assigned value can also be changed in future.
 
+<---------------------------------------------------------------------------------------------------------------->
+VIDEO - 3 DIALOG BOXES(ALERT, CONFIRM AND PROMPT)
+<----------------------------------------------->
+
+1 - In ALERT, you get only 1 option i.e. "ok", it return undefined
+2 - In CONFIRM, you get 2 option i.e. "ok" & "cancel" and it return true and false respectively
+3 - In PROMPT, you will get option of entering details also including ok and cancel.
+
+
+
+
+
