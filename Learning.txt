@@ -71,4 +71,19 @@ Boolean(0,Nan,'',-0,!!0,!!!!0,etc) will give false else it will give true
 
 
 
+<---------------------------------------------------------------------------------------------------------------->
+VIDEO - 7 Object.seal() and Object.freeze()
+<----------------------------------------------->
+
+Object.seal() = > Use it to stop addition and deletion of key's inside the object.... Cons- Modification allowed
+
+Object.freeze() => Use it to stop addition,modification and deletion of key's inside the object.
+
+
+
+
+
+
+
+
 
